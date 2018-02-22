@@ -18,12 +18,7 @@
 
 ### Projects:
 
-1. Themed Website
-
-	Build your own themed website. Use design elements from [http://themes.rokaux.com/unishop/v1.4/index.html](http://themes.rokaux.com/unishop/v1.4/index.html)
-
-	Submit the URL to the GIt repository and the URL where the project is deployed. Please name the repository theme-(name) e.g. (theme-john)
-2. Responsive Portfolio Website
+1. **Responsive Portfolio Website**
 
 	Build two versions of the Udacity portfolio website. With and without the Bootstrap CSS framework. These can be two different files in the same repository. You're required to submit the following:
 
@@ -35,6 +30,16 @@
 	In an index.html provide links to both the files.
     * portfolio.html
 	* portfolio-bootstrap.html
+
+2. **Themed Website**
+
+	Pick a website or theme of your choice and build it without looking at the source code.
+
+
+	Submit the URL to the Git repository and the URL where the project is deployed. Please name the repository theme-(name) e.g. (theme-john)
+
+
+[Reference Deployment on AWS](http://ec2-54-203-121-37.us-west-2.compute.amazonaws.com/~john/)
 
 ## Web Architecture Overview
 
