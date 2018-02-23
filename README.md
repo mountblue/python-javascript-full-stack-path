@@ -120,9 +120,11 @@ When the last entity is selected, show a stat relevant to that identity on the p
 
 ## REST
 
+**Session** on APIs and REST.
+
 Introduction to Django REST framework. TODO - Add Video.
 
-## Data Project - Round 3
+## Data Project - Round 4
 
 Use Django REST Framework and Jquery for the data project.
 
@@ -140,7 +142,7 @@ Implement the NavTree structure using the React library.
 
 Name the project navtree-react-(name)
 
-## Data Project - Round 4
+## Data Project - Round 5
 
 Use React for the frontend.
 
@@ -152,7 +154,7 @@ Use React for the frontend.
 
 **Session** Recap Redux
 
-## Data Project - Round 5
+## Data Project - Round 6
 
 Use React and Redux for the frontend.
 
