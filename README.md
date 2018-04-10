@@ -11,10 +11,11 @@
 **Session** on Git and Github
 
 [How to use Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)
+[Practice Link](https://try.github.io/levels/1/challenges/1)
 
 ## HTML and CSS
 
-[Introductory Course](https://in.udacity.com/course/intro-to-html-and-css--ud304)
+[Introductory Course](https://learn.shayhowe.com/)
 
 ### Projects:
 
@@ -75,12 +76,11 @@ Use Django as backend and MySQL as database.
 
 ## JavaScript and Ecosytem
 
-**Session** on JavaScript Environment Setup - JS, Node, NPM. Introduction to JavaScript.
-
 [Introduction to JavaScript](https://in.udacity.com/course/intro-to-javascript--ud803)
+[Introduction to ES6](https://www.udacity.com/course/es6-javascript-improved--ud356)
 
 **Session**: Recap on Functions, Scope and Callbacks.
-
+**Session** on JavaScript Environment Setup - JS, Node, NPM. Introduction to JavaScript.
 [Introduction to Jquery](https://in.udacity.com/course/intro-to-jquery--ud245)
 
 ### NavTree Project in Jquery
@@ -114,9 +114,8 @@ When the last entity is selected, show a stat relevant to that identity on the p
 
 **Session**: Object and Prototypes.
 
-[Introduction to Object Oriented JavaScript](https://in.udacity.com/course/object-oriented-javascript--ud015) - Only complete scopes, closures, 'this' keyword and prototype chains.
+[Introduction to Object Oriented JavaScript](https://classroom.udacity.com/courses/ud711) - Only complete scopes, closures, 'this' keyword and prototype chains.
 
-[Introduction to ES6](https://www.udacity.com/course/es6-javascript-improved--ud356)
 
 ## REST
 
