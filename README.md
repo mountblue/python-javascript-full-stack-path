@@ -11,6 +11,7 @@
 **Session** on Git and Github
 
 [How to use Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)
+
 [Practice Link](https://try.github.io/levels/1/challenges/1)
 
 ## HTML and CSS
@@ -21,7 +22,7 @@
 
 1. **Responsive Portfolio Website**
 
-	Build two versions of the Udacity portfolio website. With and without the Bootstrap CSS framework. These can be two different files in the same repository. You're required to submit the following:
+	Build two versions of a portfolio website. With and without the Bootstrap CSS framework. These can be two different files in the same repository. You're required to submit the following:
 
 	Link to repository. The repository to be named portfolio-(name) example portfolio-john
 
@@ -40,8 +41,6 @@
 	Submit the URL to the Git repository and the URL where the project is deployed. Please name the repository theme-(name) e.g. (theme-john)
 
 
-[Reference Deployment on AWS](http://ec2-54-203-121-37.us-west-2.compute.amazonaws.com/~john/)
-
 ## Web Architecture Overview
 
 **Session** on Web Architecture Overview
@@ -55,6 +54,8 @@
 Go through [PEP-8 Style Guide](https://www.python.org/dev/peps/pep-0008/)
 
 ## Data Project - Round 1
+
+Get the [IPL Dataset](https://www.kaggle.com/manasgarg/ipl)
 
 Read the CSV, slice and dice and plot with matplotlib.
 
@@ -77,13 +78,28 @@ Use Django as backend and MySQL as database.
 ## JavaScript and Ecosytem
 
 [Introduction to JavaScript](https://in.udacity.com/course/intro-to-javascript--ud803)
+
 [Introduction to ES6](https://www.udacity.com/course/es6-javascript-improved--ud356)
 
+### Projects:
+
+1. **ToDo List in JavaScript**
+
+2. **Memory Game in JavaScript**
+
 **Session**: Recap on Functions, Scope and Callbacks.
+
 **Session** on JavaScript Environment Setup - JS, Node, NPM. Introduction to JavaScript.
+
+--
+
+### Jquery
+
 [Introduction to Jquery](https://in.udacity.com/course/intro-to-jquery--ud245)
 
-### NavTree Project in Jquery
+### Projects:
+
+1. NavTree Project in Jquery
 
 Repository name: navtree-(name) Example navtree-john
 
@@ -121,7 +137,9 @@ When the last entity is selected, show a stat relevant to that identity on the p
 
 **Session** on APIs and REST.
 
-Introduction to Django REST framework. TODO - Add Video.
+Read up on [REST APIs](https://en.wikipedia.org/wiki/Representational_state_transfer) and [RESTful Design](https://blog.philipphauer.de/restful-api-design-best-practices/).
+
+Introduction to [Django REST framework](http://www.django-rest-framework.org/).
 
 ## Data Project - Round 4
 
@@ -141,33 +159,16 @@ Implement the NavTree structure using the React library.
 
 Name the project navtree-react-(name)
 
+### ToDo List
+
+Implement a todo list with ordering which interacts with a backend Web Server in Node or Django with each update.
+
 ## Data Project - Round 5
 
 Use React for the frontend.
-
-## Redux
-
-[Introduction to Redux](https://egghead.io/courses/getting-started-with-redux)
-
-[Introduction to Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
-
-**Session** Recap Redux
-
-## Data Project - Round 6
-
-Use React and Redux for the frontend.
 
 ## Capstone Project
 
 The final project of the bootcamp.
 
 Thanks.
-
-
-
-
-
-
-
-
-
