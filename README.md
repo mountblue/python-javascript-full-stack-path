@@ -1,4 +1,4 @@
-# Python Learning Path
+# Full Stack Learning Path - Python, Django, JavaScript, React
 
 ## Command Line Basics
 
@@ -16,29 +16,35 @@
 
 ## HTML and CSS
 
-[Introductory Course](https://learn.shayhowe.com/)
+Start with [Learn to Code HTML and CSS by Shay Howe](https://learn.shayhowe.com/)
+
+In particular read the following sections.
+
+* Lesson 3: Getting to know CSS
+* Lesson 4: Opening the Box Model.
+* Lesson 5: Positioning content.
 
 ### Projects:
 
 1. **Responsive Portfolio Website**
 
-	Build two versions of a portfolio website. With and without the Bootstrap CSS framework. These can be two different files in the same repository. You're required to submit the following:
+		Build two versions of a portfolio website. With and without the Bootstrap CSS framework. These can be two different files in the same repository. You're required to submit the following:
 
-	Link to repository. The repository to be named portfolio-(name) example portfolio-john
+		Link to repository. The repository to be named portfolio-(name) example portfolio-john
 
-	Live URL containing links to both versions of the portfolio.
+		Live URL containing links to both versions of the portfolio.
 
 
-	In an index.html provide links to both the files.
-    * portfolio.html
-	* portfolio-bootstrap.html
+		In an index.html provide links to both the files.
+	    * portfolio.html
+		* portfolio-bootstrap.html
 
 2. **Themed Website**
 
-	Pick a website or theme of your choice and build it without looking at the source code.
+		Pick a website or theme of your choice and build it without looking at the source code.
 
 
-	Submit the URL to the Git repository and the URL where the project is deployed. Please name the repository theme-(name) e.g. (theme-john)
+		Submit the URL to the Git repository and the URL where the project is deployed. Please name the repository theme-(name) e.g. (theme-john)
 
 
 ## Web Architecture Overview
@@ -99,28 +105,25 @@ Use Django as backend and MySQL as database.
 
 ### Projects:
 
-1. NavTree Project in Jquery
+NavTree Project in Jquery
 
-Repository name: navtree-(name) Example navtree-john
+	Repository name: navtree-(name) Example navtree-john
 
+	Build a hierarchical, navigable tree structure using jQuery. The tree structure should be at least 3 levels deep.
 
-Build a hierarchical, navigable tree structure using jQuery. The tree structure should be at least 3 levels deep.
+	For example:
 
-For example:
+	Depth 0
+	-- Depth 1
+	-- Depth 2
 
-Depth 0
+	It should expand and minimize to reveal and hide nested nodes. Do not use an existing library to build the tree structure.
 
--- Depth 1
+	Please use the IPL dataset that you had previously used for the Visualisation assignment. An example hierarchy could be
 
--- Depth 2
+	Year > Team > Players
 
-It should expand and minimize to reveal and hide nested nodes. Do not use an existing library to build the tree structure.
-
-Please use the IPL dataset that you had previously used for the Visualisation assignment. An example hierarchy could be
-
-Year > Team > Players
-
-When the last entity is selected, show a stat relevant to that identity on the page. This can either be a visualisation or a table.
+	When the last entity is selected, show a stat relevant to that identity on the page. This can either be a visualisation or a table.
 
 --
 
@@ -149,19 +152,19 @@ Use Django REST Framework and Jquery for the data project.
 
 [Build Tools: Webpack and Babel](https://stanko.github.io/webpack-babel-react-revisited/)
 
-[Introduction to React](https://egghead.io/courses/start-learning-react)
+[Introduction to React](https://www.youtube.com/watch?v=bUTsVY6VUQA&list=PL7pEw9n3GkoVPFsAylfniAT3QQcjWGl5C)
 
 **Session** Recap React
 
-### NavTree Project in React
-
-Implement the NavTree structure using the React library.
-
-Name the project navtree-react-(name)
-
 ### ToDo List
 
-Implement a todo list with ordering which interacts with a backend Web Server in Node or Django with each update.
+	Implement a todo list with ordering which interacts with a backend Web Server in Node or Django with each update.
+
+### NavTree Project in React
+
+	Implement the NavTree structure using the React library.
+
+	Name the project navtree-react-(name)
 
 ## Data Project - Round 5
 
