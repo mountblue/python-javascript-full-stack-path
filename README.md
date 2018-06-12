@@ -35,6 +35,12 @@ Advanced HTML & CSS
 * Lesson 3: Complex Selectors
 * Lesson 4: Responsive Web Design
 
+Resources for Flex and Grid Layouts
+
+[CSS Flex Video](https://www.youtube.com/watch?v=JJSoEo8JSnc)
+
+[CSS Grids](https://www.youtube.com/watch?v=jV8B24rSN5o)
+
 ### Projects:
 
 **Responsive Portfolio Website**
@@ -112,6 +118,12 @@ Use Django as backend and MySQL as database
 
 Introduction to [Django REST framework](http://www.django-rest-framework.org/)
 
+### Time and Space Complexity
+
+[Time Complexity Videos - mycodeschool](https://www.youtube.com/watch?v=8syQKTdgdzc)
+
+Create an account on [Interviewbit](https://www.interviewbit.com) and solve the practice problems in the Time Complexity section.
+
 ## JavaScript and Ecosytem
 
 ### JavaScript Basics
@@ -138,7 +150,9 @@ Introduction to [Django REST framework](http://www.django-rest-framework.org/)
 
 **Session** on JavaScript Environment Setup - JS, Node, NPM. Introduction to JavaScript.
 
---
+### Developer Tools
+
+[Getting Started with Developer Tools](https://developers.google.com/web/tools/chrome-devtools/)
 
 ### Jquery
 
@@ -198,10 +212,6 @@ Use Django REST Framework and Jquery navigation tree for the data project.
 
 	Name the project navtree-react-(name)
 
-## Data Project - Round 5
-
-Use React for the frontend.
-
 ## Redux
 
 [Introduction to Redux - Academind](https://www.youtube.com/watch?v=YmGm-qwbJdc&index=9&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_)
@@ -217,5 +227,15 @@ Advanced:
 ## Capstone Project
 
 The final project of the bootcamp.
+
+Deliverables:
+
+1. User Personas - [How to define a User Persona](https://careerfoundry.com/en/blog/ux-design/how-to-define-a-user-persona/)
+2. User Stories - [Writing User Stories](https://www.mountaingoatsoftware.com/agile/user-stories)
+3. Wireframes - [Website Wireframes](https://en.wikipedia.org/wiki/Website_wireframe)
+4. API Contracts
+5. Trello Board for managing and prioritising user stories
+6. Gitlab Repository for managing the code
+7. Deployment link for the project
 
 Thanks.
