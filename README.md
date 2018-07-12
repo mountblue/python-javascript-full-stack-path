@@ -35,37 +35,31 @@ Advanced HTML & CSS
 * Lesson 3: Complex Selectors
 * Lesson 4: Responsive Web Design
 
-Resources for Flex and Grid Layouts
+Resources for Flex and Grid Layouts:
 
 [CSS Flex Video](https://www.youtube.com/watch?v=JJSoEo8JSnc)
 
-[CSS Grids](https://www.youtube.com/watch?v=jV8B24rSN5o)
+[CSS Grid Video](https://www.youtube.com/watch?v=jV8B24rSN5o)
+
+Resources for Web Development for any Topic:
+
+[Mozilla Web Docs](https://developer.mozilla.org/en-US/)
 
 ### Projects:
 
 **Responsive Portfolio Website**
 
-		Build two versions of a portfolio website. With and without the Bootstrap CSS framework. These can be two different files in the same repository. You're required to submit the following:
+	Build your portfolio website using your knowledge of HTML and CSS. The display should work in all resolutions.
 
-		Link to repository. The repository to be named portfolio-(name) example portfolio-john
-
-		Live URL containing links to both versions of the portfolio.
-
-
-		In an index.html provide links to both the files.
-	    * portfolio.html
-		* portfolio-bootstrap.html
+	Use your knowledge of responsive media queries, CSS flex and CSS grid for handling multi column layouts.
 
 #### CSS Reference
 
 [A Visual Reference to CSS](https://cssreference.io/)
 
-**Themed Website**
+**Themed Ecommerce Website**
 
-		Pick a website or theme of your choice and build it without looking at the source code.
-
-
-		Submit the URL to the Git repository and the URL where the project is deployed. Please name the repository theme-(name) e.g. (theme-john)
+	Pick a website or theme of your choice and build it without looking at the source code.
 
 
 ## Web Architecture Overview
@@ -82,11 +76,31 @@ Resources for Flex and Grid Layouts
 
 Go through [PEP-8 Style Guide](https://www.python.org/dev/peps/pep-0008/)
 
+
+### Unit Testing in Python
+
+**Session** Unit testing
+
+**Session** Code Retreat
+
+
 ## Data Project - Round 1
 
 Get the [IPL Dataset](https://www.kaggle.com/manasgarg/ipl)
 
-Read the CSV, slice and dice and plot with matplotlib.
+	In this data assignment you will transform raw data from IPL into graphs that will convey some meaning / analysis. For each part of this assignment you will have 2 parts -
+
+	Download both csv files from https://www.kaggle.com/manasgarg/ipl
+
+	Code python functions that will transform the raw csv data into a data structure in a format suitable for plotting with matplotlib.
+
+	Generate the following plots ...
+
+	1. Plot the number of matches played per year of all the years in IPL.
+	2. Plot a stacked bar chart of matches won of all teams over all the years of IPL.
+	3. For the year 2016 plot the extra runs conceded per team.
+	4. For the year 2015 plot the top economical bowlers.
+	5. Discuss a "Story" you want to tell with the given data. As with part 1, prepare the data structure and plot with matplotlib.
 
 ## Django
 
@@ -204,13 +218,11 @@ Use Django REST Framework and Jquery navigation tree for the data project.
 
 ### ToDo List
 
-	Implement a todo list with ordering which interacts with a backend Web Server in Node or Django with each update.
+	Implement a todo list with ordering which interacts with a backend web server in Node or Django with each update.
 
 ### NavTree Project in React
 
-	Implement the NavTree structure using the React library.
-
-	Name the project navtree-react-(name)
+	Implement the navigation tree structure using the React library.
 
 ## Redux
 
